@@ -1,0 +1,26 @@
+{
+  "name": "graphql_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "RickyDan <tangzhiming90@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "cross-env NODE_ENV=development nodemon app.js",
+    "seq": "nodemon sequelize.js"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.4",
+    "cross-env": "^5.2.0",
+    "dayjs": "^1.8.8",
+    "jsonwebtoken": "^8.5.0",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-jwt": "^3.5.1",
+    "koa-logger": "^3.2.0",
+    "koa-router": "^7.4.0",
+    "koa2-cors": "^2.0.6",
+    "mysql2": "^1.6.5",
+    "nodemon": "^1.18.10",
+    "sequelize": "^4.43.0"
+  }
+}
