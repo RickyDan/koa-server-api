@@ -14,8 +14,8 @@ module.exports = {
         const saltPassword = await encrypt(password)
         await UserModel.create({ username, password: saltPassword })
         response = { code: 200, message: '注册成功' }
-        ctx.body = response
       }
+      ctx.body = response
     } else {
       ctx.body = { code: 400, message: '用户名或密码不能为空' }
     }
