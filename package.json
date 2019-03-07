@@ -7,7 +7,8 @@
   "scripts": {
     "start": "cross-env NODE_ENV=development nodemon app.js",
     "seq": "nodemon sequelize.js",
-    "pm2": "pm2 start pm2.json"
+    "pm2": "pm2 start pm2.json",
+    "stop": "pm2 stop pm2.json"
   },
   "dependencies": {
     "bcrypt": "^3.0.4",

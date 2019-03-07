@@ -1,4 +1,4 @@
-2019-03-07 21:04:14: Thu, 07 Mar 2019 13:04:14 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:46: Thu, 07 Mar 2019 13:04:46 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -11,7 +11,7 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:15: Thu, 07 Mar 2019 13:04:15 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:46: Thu, 07 Mar 2019 13:04:46 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -24,8 +24,8 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:16: Thu, 07 Mar 2019 13:04:16 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
-2019-03-07 21:04:16: Thu, 07 Mar 2019 13:04:16 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:47: Thu, 07 Mar 2019 13:04:47 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:47: Thu, 07 Mar 2019 13:04:47 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -50,7 +50,7 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:17: Thu, 07 Mar 2019 13:04:17 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:48: Thu, 07 Mar 2019 13:04:48 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -63,7 +63,7 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:17: Thu, 07 Mar 2019 13:04:17 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:48: Thu, 07 Mar 2019 13:04:48 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -76,7 +76,8 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:18: Thu, 07 Mar 2019 13:04:18 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:49: Thu, 07 Mar 2019 13:04:49 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:49: Thu, 07 Mar 2019 13:04:49 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -89,7 +90,7 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:18: Thu, 07 Mar 2019 13:04:18 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:49: Thu, 07 Mar 2019 13:04:49 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -102,7 +103,9 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:19: Thu, 07 Mar 2019 13:04:19 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:51: Thu, 07 Mar 2019 13:04:51 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:51: Thu, 07 Mar 2019 13:04:51 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:51: Thu, 07 Mar 2019 13:04:51 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -115,7 +118,6 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:20: Thu, 07 Mar 2019 13:04:20 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -128,7 +130,7 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:20: Thu, 07 Mar 2019 13:04:20 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:51: Thu, 07 Mar 2019 13:04:51 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -141,7 +143,6 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:21: Thu, 07 Mar 2019 13:04:21 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -154,7 +155,8 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:21: Thu, 07 Mar 2019 13:04:21 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:54: Thu, 07 Mar 2019 13:04:54 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:54: Thu, 07 Mar 2019 13:04:54 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -167,7 +169,6 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:22: Thu, 07 Mar 2019 13:04:22 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -180,7 +181,8 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:22: Thu, 07 Mar 2019 13:04:22 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:54: Thu, 07 Mar 2019 13:04:54 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:54: Thu, 07 Mar 2019 13:04:54 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -193,7 +195,6 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:23: Thu, 07 Mar 2019 13:04:23 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -206,7 +207,8 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:23: Thu, 07 Mar 2019 13:04:23 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:56: Thu, 07 Mar 2019 13:04:56 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:56: Thu, 07 Mar 2019 13:04:56 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -219,7 +221,6 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:24: Thu, 07 Mar 2019 13:04:24 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -232,7 +233,8 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:24: Thu, 07 Mar 2019 13:04:24 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:56: Thu, 07 Mar 2019 13:04:56 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:56: Thu, 07 Mar 2019 13:04:56 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -245,7 +247,6 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:24: Thu, 07 Mar 2019 13:04:24 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -258,7 +259,9 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:25: Thu, 07 Mar 2019 13:04:25 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:57: Thu, 07 Mar 2019 13:04:57 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:57: Thu, 07 Mar 2019 13:04:57 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:57: Thu, 07 Mar 2019 13:04:57 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -271,7 +274,6 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:25: Thu, 07 Mar 2019 13:04:25 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -284,7 +286,7 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:26: Thu, 07 Mar 2019 13:04:26 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:57: Thu, 07 Mar 2019 13:04:57 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -297,7 +299,6 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:26: Thu, 07 Mar 2019 13:04:26 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -310,7 +311,10 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:26: Thu, 07 Mar 2019 13:04:26 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:58: Thu, 07 Mar 2019 13:04:58 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:58: Thu, 07 Mar 2019 13:04:58 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:58: Thu, 07 Mar 2019 13:04:58 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:04:59: Thu, 07 Mar 2019 13:04:58 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -323,7 +327,6 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:27: Thu, 07 Mar 2019 13:04:27 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -336,7 +339,6 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:27: Thu, 07 Mar 2019 13:04:27 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -349,7 +351,6 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:27: Thu, 07 Mar 2019 13:04:27 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
 Error: bind EADDRINUSE null:8000
     at Object._errnoException (util.js:1022:11)
     at _exceptionWithHostPort (util.js:1044:20)
@@ -362,4 +363,1201 @@ Error: bind EADDRINUSE null:8000
     at emit (internal/child_process.js:772:12)
     at _combinedTickCallback (internal/process/next_tick.js:141:11)
     at process._tickCallback (internal/process/next_tick.js:180:9)
-2019-03-07 21:04:28: Thu, 07 Mar 2019 13:04:28 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:00: Thu, 07 Mar 2019 13:05:00 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:00: Thu, 07 Mar 2019 13:05:00 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:00: Thu, 07 Mar 2019 13:05:00 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:00: Thu, 07 Mar 2019 13:05:00 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:01: Thu, 07 Mar 2019 13:05:01 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:01: Thu, 07 Mar 2019 13:05:01 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:01: Thu, 07 Mar 2019 13:05:01 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:01: Thu, 07 Mar 2019 13:05:01 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:03: Thu, 07 Mar 2019 13:05:03 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:03: Thu, 07 Mar 2019 13:05:03 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:03: Thu, 07 Mar 2019 13:05:03 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:03: Thu, 07 Mar 2019 13:05:03 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:04: Thu, 07 Mar 2019 13:05:04 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:04: Thu, 07 Mar 2019 13:05:04 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:04: Thu, 07 Mar 2019 13:05:04 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:04: Thu, 07 Mar 2019 13:05:04 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:05: Thu, 07 Mar 2019 13:05:05 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:06: Thu, 07 Mar 2019 13:05:06 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:06: Thu, 07 Mar 2019 13:05:06 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:06: Thu, 07 Mar 2019 13:05:06 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:06: Thu, 07 Mar 2019 13:05:06 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:07: Thu, 07 Mar 2019 13:05:07 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:08: Thu, 07 Mar 2019 13:05:08 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:08: Thu, 07 Mar 2019 13:05:08 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:08: Thu, 07 Mar 2019 13:05:08 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:08: Thu, 07 Mar 2019 13:05:08 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:09: Thu, 07 Mar 2019 13:05:09 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:10: Thu, 07 Mar 2019 13:05:10 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:10: Thu, 07 Mar 2019 13:05:10 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:10: Thu, 07 Mar 2019 13:05:10 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:10: Thu, 07 Mar 2019 13:05:10 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:10: Thu, 07 Mar 2019 13:05:10 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:12: Thu, 07 Mar 2019 13:05:12 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:12: Thu, 07 Mar 2019 13:05:12 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:13: Thu, 07 Mar 2019 13:05:13 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:13: Thu, 07 Mar 2019 13:05:13 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:13: Thu, 07 Mar 2019 13:05:13 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:14: Thu, 07 Mar 2019 13:05:14 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:14: Thu, 07 Mar 2019 13:05:14 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:14: Thu, 07 Mar 2019 13:05:14 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:14: Thu, 07 Mar 2019 13:05:14 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:16: Thu, 07 Mar 2019 13:05:16 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:16: Thu, 07 Mar 2019 13:05:16 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:17: Thu, 07 Mar 2019 13:05:17 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:17: Thu, 07 Mar 2019 13:05:17 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:18: Thu, 07 Mar 2019 13:05:18 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:18: Thu, 07 Mar 2019 13:05:18 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:19: Thu, 07 Mar 2019 13:05:19 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:19: Thu, 07 Mar 2019 13:05:19 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:20: Thu, 07 Mar 2019 13:05:20 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:20: Thu, 07 Mar 2019 13:05:20 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:21: Thu, 07 Mar 2019 13:05:21 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:21: Thu, 07 Mar 2019 13:05:21 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:22: Thu, 07 Mar 2019 13:05:22 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:22: Thu, 07 Mar 2019 13:05:22 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:22: Thu, 07 Mar 2019 13:05:22 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:22: Thu, 07 Mar 2019 13:05:22 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:24: Thu, 07 Mar 2019 13:05:24 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:24: Thu, 07 Mar 2019 13:05:24 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:24: Thu, 07 Mar 2019 13:05:24 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:24: Thu, 07 Mar 2019 13:05:24 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:25: Thu, 07 Mar 2019 13:05:25 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:25: Thu, 07 Mar 2019 13:05:25 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:25: Thu, 07 Mar 2019 13:05:25 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:25: Thu, 07 Mar 2019 13:05:25 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:27: Thu, 07 Mar 2019 13:05:27 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:27: Thu, 07 Mar 2019 13:05:27 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:27: Thu, 07 Mar 2019 13:05:27 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:27: Thu, 07 Mar 2019 13:05:27 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:29: Thu, 07 Mar 2019 13:05:29 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:29: Thu, 07 Mar 2019 13:05:29 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:29: Thu, 07 Mar 2019 13:05:29 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:29: Thu, 07 Mar 2019 13:05:29 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:30: Thu, 07 Mar 2019 13:05:30 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:30: Thu, 07 Mar 2019 13:05:30 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:30: Thu, 07 Mar 2019 13:05:30 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:30: Thu, 07 Mar 2019 13:05:30 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:32: Thu, 07 Mar 2019 13:05:32 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:32: Thu, 07 Mar 2019 13:05:32 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:32: Thu, 07 Mar 2019 13:05:32 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:32: Thu, 07 Mar 2019 13:05:32 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:33: Thu, 07 Mar 2019 13:05:33 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:33: Thu, 07 Mar 2019 13:05:33 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:33: Thu, 07 Mar 2019 13:05:33 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:33: Thu, 07 Mar 2019 13:05:33 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:37: Thu, 07 Mar 2019 13:05:37 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:37: Thu, 07 Mar 2019 13:05:37 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:37: Thu, 07 Mar 2019 13:05:37 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:37: Thu, 07 Mar 2019 13:05:37 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:39: Thu, 07 Mar 2019 13:05:39 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:39: Thu, 07 Mar 2019 13:05:39 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:39: Thu, 07 Mar 2019 13:05:39 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+2019-03-07 21:05:39: Thu, 07 Mar 2019 13:05:39 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2019-03-07 21:05:39: Thu, 07 Mar 2019 13:05:39 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+Error: bind EADDRINUSE null:8000
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at listenOnMasterHandle (net.js:1427:16)
+    at rr (internal/cluster/child.js:121:12)
+    at Worker.send (internal/cluster/child.js:88:7)
+    at process.onInternalMessage (internal/cluster/utils.js:42:8)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
