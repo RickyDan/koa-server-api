@@ -1,0 +1,38 @@
+{
+  "apps": {
+    "name": "graph_demo",
+    "script": "app.js",
+    "cwd": "./",
+    "args": "",
+    "interpreter": "",
+    "watch": true,
+    "interpreter_args": "",
+    "ignore_watch": [
+      "node_modules",
+      "logs"
+    ],
+    "exec_mode": "cluster_mode",
+    "instances": 4,
+    "max_memory_restart": 8,
+    "error_file": "./logs/app-err.log",
+    "out_file": "./logs/app-out.log",
+    "merge_logs": true,
+    "log_date_format": "YYYY-MM-DD HH:mm:ss",
+    "min_uptime": "60s",
+    "max_restarts": 30,
+    "autorestart": true,
+    "cron_restart": "",
+    "env": {
+      "NODE_ENV": "production",
+      "REMOTE_ADDR": ""
+    },
+    "env_dev": {
+      "NODE_ENV": "development",
+      "REMOTE_ADDR": ""
+    },
+    "env_test": {
+      "NODE_ENV": "test",
+      "REMOTE_ADDR": ""
+    }
+  }
+}

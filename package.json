@@ -6,12 +6,15 @@
   "license": "MIT",
   "scripts": {
     "start": "cross-env NODE_ENV=development nodemon app.js",
-    "seq": "nodemon sequelize.js"
+    "seq": "nodemon sequelize.js",
+    "pm2": "pm2 start pm2.json"
   },
   "dependencies": {
     "bcrypt": "^3.0.4",
     "cross-env": "^5.2.0",
     "dayjs": "^1.8.8",
+    "graphql": "^14.1.1",
+    "graphql-server-koa": "^1.4.0",
     "jsonwebtoken": "^8.5.0",
     "koa": "^2.7.0",
     "koa-bodyparser": "^4.2.1",
@@ -21,6 +24,7 @@
     "koa2-cors": "^2.0.6",
     "mysql2": "^1.6.5",
     "nodemon": "^1.18.10",
+    "pm2": "^3.3.1",
     "sequelize": "^4.43.0"
   }
 }

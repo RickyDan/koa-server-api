@@ -4,7 +4,7 @@ const { createToken, checkAuth } = require('../lib/token')
 
 module.exports = {
   async register(ctx) {
-    const { username, password, nickname } = ctx.request.body
+    const { username, password, nickname, auth } = ctx.request.body
     if (username && password) {
       const checkUser = await UserModel.findOne({ where: { username }})
       let response
@@ -12,7 +12,7 @@ module.exports = {
         response = { code: 400, message: '用户名已被注册' }
       } else {
         const saltPassword = await encrypt(password)
-        await UserModel.create({ username, password: saltPassword, nickname: nickname })
+        await UserModel.create({ username, password: saltPassword, nickname: nickname, auth: auth })
         response = { code: 200, message: '注册成功' }
       }
       ctx.body = response
@@ -39,23 +39,23 @@ module.exports = {
     ctx.body = response
   },
 
-  async getUserList (ctx) {
+  async getUserList(ctx) {
     const isAuth = checkAuth(ctx)
     if (isAuth) {
       let { page = 1, pageSize = 10, username } = ctx.query
       const offset = (page - 1) * pageSize
       pageSize = parseInt(pageSize)
       const params = username ? { username : { $like: `%${username}%` }} : {}
-      const data = await UserModel.findAllCountAll({
-        attributes: ['id', 'username', 'createdAt'],
-        where: { auth: 2, ...params },
+      const data = await UserModel.findAll({
+        attributes: ['id', 'username', 'createdAt', 'nickname'],
+        where: { ...params },
         offset,
         limit: pageSize,
         row: true,
         distinct: true,
         order: [['createdAt', 'DESC']],
       })
-      ctx.body = { code: 200, ...data }
+      ctx.body = { code: 200, data }
     }
   },
 
