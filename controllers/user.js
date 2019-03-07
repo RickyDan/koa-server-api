@@ -1,10 +1,10 @@
-const { user: UserModel, sequelize } = require('../models')
+const { user: UserModel } = require('../models')
 const { encrypt, comparePassword } = require('../lib/bcrypt')
 const { createToken, checkAuth } = require('../lib/token')
 
 module.exports = {
   async register(ctx) {
-    const { username, password } = ctx.request.body
+    const { username, password, nickname } = ctx.request.body
     if (username && password) {
       const checkUser = await UserModel.findOne({ where: { username }})
       let response
@@ -12,7 +12,7 @@ module.exports = {
         response = { code: 400, message: '用户名已被注册' }
       } else {
         const saltPassword = await encrypt(password)
-        await UserModel.create({ username, password: saltPassword })
+        await UserModel.create({ username, password: saltPassword, nickname: nickname })
         response = { code: 200, message: '注册成功' }
       }
       ctx.body = response
@@ -37,5 +37,35 @@ module.exports = {
       }
     }
     ctx.body = response
+  },
+
+  async getUserList (ctx) {
+    const isAuth = checkAuth(ctx)
+    if (isAuth) {
+      let { page = 1, pageSize = 10, username } = ctx.query
+      const offset = (page - 1) * pageSize
+      pageSize = parseInt(pageSize)
+      const params = username ? { username : { $like: `%${username}%` }} : {}
+      const data = await UserModel.findAllCountAll({
+        attributes: ['id', 'username', 'createdAt'],
+        where: { auth: 2, ...params },
+        offset,
+        limit: pageSize,
+        row: true,
+        distinct: true,
+        order: [['createdAt', 'DESC']],
+      })
+      ctx.body = { code: 200, ...data }
+    }
+  },
+
+  async delete (ctx) {
+    const isAuth = checkAuth(ctx)
+    if (isAuth) {
+      let { userId } = ctx.query
+      userId = parseInt(userId)
+      await UserModel.destroy({ where: { id: userId }})
+      ctx.body = { code: 200, message: '成功删除用户' }
+    }
   }
 }

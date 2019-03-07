@@ -19,14 +19,14 @@ app
 
 app.use(router.routes(), router.allowedMethods())
 
-app.listen(3000, () => {
+app.listen(8000, () => {
    db.sequelize
     .sync({ force: false, logging: false }) // If force is true, each DAO will do DROP TABLE IF EXISTS ..., before it tries to create its own table
     .then(() => {
       // require('./initData')()
 
       console.log('sequelize connect success')
-      console.log('sever listen on http://127.0.0.1:3000')
+      console.log('sever listen on http://127.0.0.1:8000')
     })
     .catch(err => {
       console.log(err)
