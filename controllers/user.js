@@ -52,8 +52,7 @@ module.exports = {
         offset,
         limit: pageSize,
         row: true,
-        distinct: true,
-        order: [['createdAt', 'DESC']],
+        distinct: true
       })
       ctx.body = { code: 200, data }
     }

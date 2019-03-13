@@ -13,22 +13,17 @@ module.exports = {
   },
 
   async getProdList (ctx) {
-    let { page = 1, pageSize = 10, prodname, category, supplier } = ctx.query,
+    let { page = 1, pageSize = 10 } = ctx.query,
     offset = (page - 1) * pageSize
     pageSize = parseInt(pageSize)
 
-    const data = await Prod.findAll({
-      where: {
-        prodname: prodname,
-        category: category,
-        supplier: supplier
-      },
+    const data = await ProdModel.findAll({
       offset,
       limit: pageSize,
       order: [['createdAt', 'DESC']],
       row: true,
       distinct: true
     })
-    ctx.body = { code: 200, ...data }
+    ctx.body = { code: 200, data }
   }
 }
