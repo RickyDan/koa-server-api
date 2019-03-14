@@ -1,7 +1,9 @@
 const Koa = require('koa')
 const bodyParser = require('koa-bodyparser')
 const cors = require('koa2-cors')
+const path = require('path')
 const logger = require('koa-logger')
+const static = require('koa-static')
 const errorHandle = require('./middlewares/errorHandle')
 const checkToken = require('./middlewares/checkToken')
 
@@ -16,7 +18,9 @@ app
   .use(checkToken)
   .use(logger())
   .use(bodyParser())
-
+  .use(static(
+    path.join(__dirname, './public/static')
+  ))
 app.use(router.routes(), router.allowedMethods())
 
 app.listen(8000, () => {
