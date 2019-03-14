@@ -5,8 +5,8 @@ module.exports = {
   async createProd (ctx) {
     const isAuth = checkAuth(ctx)
     if (isAuth) {
-      const data = ProdModel.create(ctx.request.body)
-      ctx.body = { code: 200, message: ' 成功添加商品', data }
+      await ProdModel.create(ctx.request.body.prod)
+      ctx.body = { code: 200, message: ' 成功添加商品' }
     } else {
       ctx.body = { code: 400, message: '您无权限进行此操作' }
     }
