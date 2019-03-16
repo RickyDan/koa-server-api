@@ -1,5 +1,6 @@
 const { prod: ProdModel } = require('../models')
 const { checkAuth } = require('../lib/token')
+const checkParams = require('../utils/checkParams')
 
 module.exports = {
   async createProd (ctx) {
@@ -16,11 +17,12 @@ module.exports = {
     let { page = 1, pageSize = 10 } = ctx.query,
     offset = (page - 1) * pageSize
     pageSize = parseInt(pageSize)
-
+    const params = checkParams(ctx.query)
     const data = await ProdModel.findAll({
-      offset,
+      where: params,
       limit: pageSize,
-      order: [['createdAt', 'DESC']],
+      offset: offset,
+      order: [['createdAt']],
       row: true,
       distinct: true
     })

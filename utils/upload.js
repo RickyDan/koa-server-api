@@ -3,6 +3,7 @@ const multer = require('koa-multer')
 const storage = multer.diskStorage({
   // 文件保存路径
   destination: function (req, file, cb) {
+    console.log(file)
     cb(null, 'public/static/')
   },
   // 修改文件名称
