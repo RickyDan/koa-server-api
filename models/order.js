@@ -10,7 +10,7 @@ module.exports = (sequelize, dataTypes) => {
         autoIncrement: true
       },
       orderNum: {
-        type: dataTypes.INTEGER(20),
+        type: dataTypes.STRING(200),
         allowNull: false
       },
       prodName: {
@@ -42,12 +42,5 @@ module.exports = (sequelize, dataTypes) => {
       timestamp: true
     }
   )
-  Order.associate = models => {
-    Order.belongsTo(models.user, {
-      foreignKey: 'userId',
-      targetKey: 'id',
-      constraints: false
-    })
-  }
   return Order
 }
