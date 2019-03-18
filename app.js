@@ -1,17 +1,31 @@
 const Koa = require('koa')
 const bodyParser = require('koa-bodyparser')
 const cors = require('koa2-cors')
+const mount = require('koa-mount')
+const graphql = require('graphql')
+const graphqlHTTP = require('koa-graphql')
+const graphqlModel = require('./graphql')
 const path = require('path')
 const logger = require('koa-logger')
 const static = require('koa-static')
 const errorHandle = require('./middlewares/errorHandle')
 const checkToken = require('./middlewares/checkToken')
 
-const router = require('./routes')
+// const router = require('./routes')
 const db = require('./models')
 
 const app = new Koa()
 
+let schema = new graphql.GraphQLSchema({
+  query: new graphql.GraphQLObjectType({
+    name: 'RootQueryType',
+    fields: {
+      prods: {
+        type: new graphql.GraphQLList(graphqlModel.Prod.type)
+      }
+    }
+  })
+})
 app
   .use(cors())
   .use(errorHandle)
@@ -21,7 +35,13 @@ app
   .use(static(
     path.join(__dirname, './public/static')
   ))
-app.use(router.routes(), router.allowedMethods())
+
+app.use(mount('/graphql', graphqlHTTP({
+  schema: schema,
+  graphiql: true
+})))
+
+// app.use(router.routes(), router.allowedMethods())
 
 app.listen(8000, () => {
    db.sequelize
