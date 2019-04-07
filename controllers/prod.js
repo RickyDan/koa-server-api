@@ -13,6 +13,19 @@ module.exports = {
     }
   },
 
+  async deleteProd (ctx) {
+    const isAuth = checkAuth(ctx)
+    if (isAuth) {
+      await ProdModel.destroy({where: {
+        id: ctx.request.body.prod.id
+      }})
+      ctx.body = {
+        code: 200,
+        desc: '删除成功'
+      }
+    }
+  },
+
   async getProdList (ctx) {
     let { page = 1, pageSize = 10 } = ctx.query,
     offset = (page - 1) * pageSize

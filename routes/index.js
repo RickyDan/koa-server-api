@@ -13,6 +13,7 @@ router.get('/', UserController.getUserList)
 // 商品模块
 router.get('/prods', ProdController.getProdList)
 router.post('/prod/add', ProdController.createProd)
+router.delete('/prod/delete', ProdController.deleteProd)
 // 订单模块
 router.get('/orders', OrderController.getOrderList)
 router.post('/order/add', OrderController.createOrder)
